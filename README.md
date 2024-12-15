@@ -54,7 +54,6 @@ LINEAR-REGRESSION-METHODS/
 ├── Variable Selection Assignment/
 │   ├── Variable_Selection.R
 │   └── README.md
-├── .gitignore
 └── README.md (This file)
 ```
 
