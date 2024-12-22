@@ -1,8 +1,8 @@
-# R Assignments: Data Science and Statistics
+# R: Statistics and Analysis
 
-This repository contains a collection of R assignments completed as part of the Statistics coursework at Roanoke College. Each assignment focuses on different statistical techniques, predictive modeling methods, and dataset explorations using R.
+This repository contains a collection of R projects completed as part of the Statistics Course at Roanoke College. Each assignment focuses on different statistical techniques, predictive modeling methods, and dataset explorations using R. I would like to thank Dr. Adam Childers for the great oppurtunity to learn and find my passion in the world of statistical analysis.
 
-## Assignments Overview
+## Overview
 
 ### 1. **Multiple Linear Regression**
 - **Objective**: Utilize multiple linear regression to predict outcomes such as exam scores and cigarette sales.
